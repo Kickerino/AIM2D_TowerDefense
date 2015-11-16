@@ -37,9 +37,6 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
---- !u!127 &3
-LevelGameManager:
-  m_ObjectHideFlags: 0
 --- !u!157 &4
 LightmapSettings:
   m_ObjectHideFlags: 0
@@ -68,6 +65,7 @@ LightmapSettings:
     m_TextureCompression: 1
     m_FinalGather: 0
     m_FinalGatherRayCount: 1024
+    m_ReflectionCompression: 2
   m_LightmapSnapshot: {fileID: 0}
   m_RuntimeCPUUsage: 25
 --- !u!196 &5
@@ -444,6 +442,8 @@ MonoBehaviour:
   sprite2: {fileID: 21300000, guid: f641f77f113ea9647860f50e7cbd4613, type: 3}
   sprite3: {fileID: 21300000, guid: 0c41c27ca7e86ab4f91f4f76708af7af, type: 3}
   sprite4: {fileID: 21300000, guid: 21770a2a3f04f5048afa50dae9e5f973, type: 3}
+  PlayerLives: 3
+  Lives: {fileID: 0}
 --- !u!212 &704609136
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -468,7 +468,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 7f367142b4716d44e97d4561c7f51a3a, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 0c41c27ca7e86ab4f91f4f76708af7af, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
 --- !u!4 &704609137
 Transform:
