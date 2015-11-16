@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.UI;
 
 public class movement : MonoBehaviour
 {
@@ -9,13 +10,16 @@ public class movement : MonoBehaviour
     public Sprite sprite2;
     public Sprite sprite3;
     public Sprite sprite4;
+    public int PlayerLives = 3;
+    public Text Lives;
     private SpriteRenderer spriteRenderer;
 
     void Start()
     {
-        spriteRenderer = GetComponent<SpriteRenderer>(); 
+        spriteRenderer = GetComponent<SpriteRenderer>();
         if (spriteRenderer.sprite == null)
             spriteRenderer.sprite = sprite1;
+        SetLives("Lives : " + PlayerLives);
     }
 
     void Update()
@@ -40,6 +44,7 @@ public class movement : MonoBehaviour
             transform.position += Vector3.down * speed * Time.deltaTime;
             ChangeSpriteDown();
         }
+
     }
     void ChangeSpriteUp()
     {
@@ -64,12 +69,35 @@ public class movement : MonoBehaviour
             spriteRenderer.sprite = sprite4;
         }
     }
-    
+
     void ChangeSpriteRight()
     {
         if (spriteRenderer.sprite != sprite3)
         {
             spriteRenderer.sprite = sprite3;
         }
+    }
+
+    void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.tag == "bullet")
+        {
+            PlayerLives--;
+            SetLives("Lives : " + PlayerLives);
+            if (PlayerLives == 0)
+            {
+                Destroy(gameObject);
+            }
+        }
+        if (other.gameObject.tag == "Lives")
+        {
+            Destroy(other.gameObject);
+            PlayerLives++;
+            SetLives("Lives : " + PlayerLives);
+        }
+    }
+    public void SetLives(string text)
+    {
+        Lives.text = "score : " + PlayerLives;
     }
 }

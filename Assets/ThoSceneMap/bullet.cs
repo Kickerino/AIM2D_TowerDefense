@@ -6,7 +6,7 @@ public class bullet : MonoBehaviour
 
     Transform target;
     public float speed = 3f;
-
+    public float lifetime = 6.0f;
     void Start()
     {
         target = GameObject.FindWithTag("Player").transform;
@@ -20,6 +20,11 @@ public class bullet : MonoBehaviour
         {
             transform.Translate(new Vector3(speed * Time.deltaTime, 0,0));
         }
+        
+    }
+    void Awake()
+    {
+        Destroy(gameObject, lifetime);
     }
 
     void OnCollisionEnter2D(Collision2D other)
@@ -31,7 +36,7 @@ public class bullet : MonoBehaviour
 
         if (other.gameObject.tag == "Player")
         {
-            Destroy(gameObject);
+            Destroy(gameObject);           
         }
 
     }

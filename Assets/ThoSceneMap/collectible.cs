@@ -14,6 +14,7 @@ public class collectible : MonoBehaviour {
              score++;
              SetText("score : " + score);
          }
+
     }
      public void SetText(string text)
      {
