@@ -37,22 +37,16 @@ public class movement : MonoBehaviour
         if (Input.GetKey(KeyCode.W))
         {
             transform.position += Vector3.up * speed * Time.deltaTime;
-            ChangeSpriteUp();
+            
         }
         if (Input.GetKey(KeyCode.S))
         {
             transform.position += Vector3.down * speed * Time.deltaTime;
-            ChangeSpriteDown();
+            
         }
 
     }
-    void ChangeSpriteUp()
-    {
-        if (spriteRenderer.sprite != sprite2)
-        {
-            spriteRenderer.sprite = sprite2;
-        }
-    }
+
 
     void ChangeSpriteLeft()
     {
@@ -62,13 +56,7 @@ public class movement : MonoBehaviour
         }
     }
 
-    void ChangeSpriteDown()
-    {
-        if (spriteRenderer.sprite != sprite4)
-        {
-            spriteRenderer.sprite = sprite4;
-        }
-    }
+
 
     void ChangeSpriteRight()
     {
@@ -98,6 +86,6 @@ public class movement : MonoBehaviour
     }
     public void SetLives(string text)
     {
-        Lives.text = "score : " + PlayerLives;
+        Lives.text = "Lives : " + PlayerLives;
     }
 }
