@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 2c8b5e5a1cf2049488b7eb1334b5e99f
+timeCreated: 1448039248
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Walk_right_up_0
+    21300002: Walk_right_up_1
+    21300004: Walk_right_up_2
+    21300006: Walk_right_up_3
+    21300008: Walk_right_up_4
+    21300010: Walk_right_up_5
+    21300012: Walk_right_up_6
+    21300014: Walk_right_up_7
+    21300016: Walk_right_up_8
+    21300018: Walk_right_up_9
+    21300020: Walk_right_up_10
+    21300022: Walk_right_up_11
+    21300024: Walk_right_up_12
+    21300026: Walk_right_up_13
+    21300028: Walk_right_up_14
+    21300030: Walk_right_up_15
+    21300032: Walk_right_up_16
+    21300034: Walk_right_up_17
+    21300036: Walk_right_up_18
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Walk_right_up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3405
+        width: 424
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_1
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3403
+        width: 416
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_2
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 3400
+        width: 408
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_3
+      rect:
+        serializedVersion: 2
+        x: 1293
+        y: 3399
+        width: 395
+        height: 686
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 2680
+        width: 387
+        height: 689
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_5
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 2679
+        width: 377
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_6
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 2677
+        width: 372
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_7
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 2675
+        width: 376
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_8
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1949
+        width: 372
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_9
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1949
+        width: 374
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_10
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1946
+        width: 374
+        height: 697
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_11
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 1949
+        width: 373
+        height: 694
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1221
+        width: 372
+        height: 693
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_13
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1222
+        width: 371
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_14
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1223
+        width: 369
+        height: 692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_15
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1227
+        width: 382
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 504
+        width: 392
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_17
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 505
+        width: 403
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Walk_right_up_18
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 507
+        width: 416
+        height: 684
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

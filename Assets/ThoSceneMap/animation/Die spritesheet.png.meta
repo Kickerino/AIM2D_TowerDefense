@@ -1,0 +1,1387 @@
+fileFormatVersion: 2
+guid: 7a20defad00607d4f9bf729216ea9d88
+timeCreated: 1448039367
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Die spritesheet_0
+    21300002: Die spritesheet_1
+    21300004: Die spritesheet_2
+    21300006: Die spritesheet_3
+    21300008: Die spritesheet_4
+    21300010: Die spritesheet_5
+    21300012: Die spritesheet_6
+    21300014: Die spritesheet_7
+    21300016: Die spritesheet_8
+    21300018: Die spritesheet_9
+    21300020: Die spritesheet_10
+    21300022: Die spritesheet_11
+    21300024: Die spritesheet_12
+    21300026: Die spritesheet_13
+    21300028: Die spritesheet_14
+    21300030: Die spritesheet_15
+    21300032: Die spritesheet_16
+    21300034: Die spritesheet_17
+    21300036: Die spritesheet_18
+    21300038: Die spritesheet_19
+    21300040: Die spritesheet_20
+    21300042: Die spritesheet_21
+    21300044: Die spritesheet_22
+    21300046: Die spritesheet_23
+    21300048: Die spritesheet_24
+    21300050: Die spritesheet_25
+    21300052: Die spritesheet_26
+    21300054: Die spritesheet_27
+    21300056: Die spritesheet_28
+    21300058: Die spritesheet_29
+    21300060: Die spritesheet_30
+    21300062: Die spritesheet_31
+    21300064: Die spritesheet_32
+    21300066: Die spritesheet_33
+    21300068: Die spritesheet_34
+    21300070: Die spritesheet_35
+    21300072: Die spritesheet_36
+    21300074: Die spritesheet_37
+    21300076: Die spritesheet_38
+    21300078: Die spritesheet_39
+    21300080: Die spritesheet_40
+    21300082: Die spritesheet_41
+    21300084: Die spritesheet_42
+    21300086: Die spritesheet_43
+    21300088: Die spritesheet_44
+    21300090: Die spritesheet_45
+    21300092: Die spritesheet_46
+    21300094: Die spritesheet_47
+    21300096: Die spritesheet_48
+    21300098: Die spritesheet_49
+    21300100: Die spritesheet_50
+    21300102: Die spritesheet_51
+    21300104: Die spritesheet_52
+    21300106: Die spritesheet_53
+    21300108: Die spritesheet_54
+    21300110: Die spritesheet_55
+    21300112: Die spritesheet_56
+    21300114: Die spritesheet_57
+    21300116: Die spritesheet_58
+    21300118: Die spritesheet_59
+    21300120: Die spritesheet_60
+    21300122: Die spritesheet_61
+    21300124: Die spritesheet_62
+    21300126: Die spritesheet_63
+    21300128: Die spritesheet_64
+    21300130: Die spritesheet_65
+    21300132: Die spritesheet_66
+    21300134: Die spritesheet_67
+    21300136: Die spritesheet_68
+    21300138: Die spritesheet_69
+    21300140: Die spritesheet_70
+    21300142: Die spritesheet_71
+    21300144: Die spritesheet_72
+    21300146: Die spritesheet_73
+    21300148: Die spritesheet_74
+    21300150: Die spritesheet_75
+    21300152: Die spritesheet_76
+    21300154: Die spritesheet_77
+    21300156: Die spritesheet_78
+    21300158: Die spritesheet_79
+    21300160: Die spritesheet_80
+    21300162: Die spritesheet_81
+    21300164: Die spritesheet_82
+    21300166: Die spritesheet_83
+    21300168: Die spritesheet_84
+    21300170: Die spritesheet_85
+    21300172: Die spritesheet_86
+    21300174: Die spritesheet_87
+    21300176: Die spritesheet_88
+    21300178: Die spritesheet_89
+    21300180: Die spritesheet_90
+    21300182: Die spritesheet_91
+    21300184: Die spritesheet_92
+    21300186: Die spritesheet_93
+    21300188: Die spritesheet_94
+    21300190: Die spritesheet_95
+    21300192: Die spritesheet_96
+    21300194: Die spritesheet_97
+    21300196: Die spritesheet_98
+    21300198: Die spritesheet_99
+    21300200: Die spritesheet_100
+    21300202: Die spritesheet_101
+    21300204: Die spritesheet_102
+    21300206: Die spritesheet_103
+    21300208: Die spritesheet_104
+    21300210: Die spritesheet_105
+    21300212: Die spritesheet_106
+    21300214: Die spritesheet_107
+    21300216: Die spritesheet_108
+    21300218: Die spritesheet_109
+    21300220: Die spritesheet_110
+    21300222: Die spritesheet_111
+    21300224: Die spritesheet_112
+    21300226: Die spritesheet_113
+    21300228: Die spritesheet_114
+    21300230: Die spritesheet_115
+    21300232: Die spritesheet_116
+    21300234: Die spritesheet_117
+    21300236: Die spritesheet_118
+    21300238: Die spritesheet_119
+    21300240: Die spritesheet_120
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Die spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 5559
+        width: 90
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 5559
+        width: 89
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 5559
+        width: 89
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 5559
+        width: 90
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5374
+        width: 92
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 5374
+        width: 92
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 5374
+        width: 95
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 5374
+        width: 98
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 5189
+        width: 97
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 5189
+        width: 101
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 5189
+        width: 101
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 5189
+        width: 104
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 5004
+        width: 106
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 5004
+        width: 106
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 5004
+        width: 101
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 5004
+        width: 101
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 4819
+        width: 98
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4819
+        width: 92
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 4819
+        width: 92
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 4819
+        width: 96
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4634
+        width: 92
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 4634
+        width: 92
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 4634
+        width: 95
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 4634
+        width: 93
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4450
+        width: 95
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4450
+        width: 92
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4450
+        width: 92
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 4450
+        width: 95
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4265
+        width: 93
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4265
+        width: 95
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4265
+        width: 95
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 4265
+        width: 95
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4080
+        width: 95
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 4080
+        width: 92
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 4080
+        width: 95
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 4080
+        width: 93
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3895
+        width: 92
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 3895
+        width: 92
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3895
+        width: 95
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 3895
+        width: 93
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3710
+        width: 93
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 3710
+        width: 95
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 3710
+        width: 95
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3710
+        width: 98
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3526
+        width: 98
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 3526
+        width: 101
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3526
+        width: 107
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3526
+        width: 112
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3341
+        width: 114
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3338
+        width: 117
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3341
+        width: 114
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 3341
+        width: 115
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3156
+        width: 118
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 3156
+        width: 117
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3156
+        width: 114
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 3156
+        width: 115
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2968
+        width: 115
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2971
+        width: 114
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2971
+        width: 112
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2971
+        width: 112
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2786
+        width: 112
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2786
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2786
+        width: 114
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2786
+        width: 114
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2599
+        width: 115
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2601
+        width: 115
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 2601
+        width: 118
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2599
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2417
+        width: 123
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2417
+        width: 123
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2417
+        width: 125
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 2417
+        width: 125
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 2232
+        width: 129
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 2232
+        width: 132
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2232
+        width: 131
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2232
+        width: 134
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2047
+        width: 134
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2047
+        width: 137
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2047
+        width: 140
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2050
+        width: 140
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1862
+        width: 143
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1865
+        width: 143
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1865
+        width: 148
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1865
+        width: 145
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1680
+        width: 149
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1680
+        width: 149
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1680
+        width: 151
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1680
+        width: 151
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1495
+        width: 154
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1495
+        width: 151
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1495
+        width: 154
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1493
+        width: 157
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1308
+        width: 157
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1308
+        width: 154
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1305
+        width: 156
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1305
+        width: 156
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1117
+        width: 157
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1117
+        width: 160
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1115
+        width: 156
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1115
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_100
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 930
+        width: 160
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_101
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 927
+        width: 160
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_102
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 927
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_103
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 927
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_104
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 745
+        width: 160
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_105
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 750
+        width: 160
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_106
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 756
+        width: 156
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_107
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 753
+        width: 159
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_108
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 566
+        width: 157
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_109
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 566
+        width: 160
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_110
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 563
+        width: 156
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_111
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 560
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_112
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 375
+        width: 160
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_113
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 372
+        width: 160
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_114
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 372
+        width: 159
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_115
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 372
+        width: 159
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_116
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 188
+        width: 157
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_117
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 188
+        width: 160
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_118
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 188
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_119
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 188
+        width: 159
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Die spritesheet_120
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3
+        width: 157
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
