@@ -8,16 +8,14 @@ public class healthChange3 : MonoBehaviour
     public Sprite sprite2;
     public Sprite sprite3;
     private SpriteRenderer spriteRenderer;
-    // Use this for initialization
+    
     void Start()
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        Debug.Log(Player.GetComponent<movement>().PlayerLives);
         if (Player.GetComponent<movement>().PlayerLives == 1)
         {
             spriteRenderer.sprite = sprite2;
