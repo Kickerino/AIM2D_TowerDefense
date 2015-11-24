@@ -6,8 +6,9 @@ public class movement : MonoBehaviour
 {
 
     public float speed = 1.5f;
-    public int PlayerLives = 3;
+    public int PlayerLives = 6;
     public Text Lives;
+    private int collect = 0;
     private SpriteRenderer spriteRenderer;
     Animator anim;
 
@@ -72,10 +73,20 @@ public class movement : MonoBehaviour
             PlayerLives++;
             SetLives("Lives : " + PlayerLives);
         }
-        
+
         if (other.gameObject.tag == "Tower")
         {
-            Destroy(other.gameObject);    
+            Destroy(other.gameObject);
+        }
+
+        if (other.gameObject.tag == "Diamond")
+        {
+            collect++;
+        }
+        
+        if (other.gameObject.tag == "Finish" && collect == 2)
+        {
+            Application.LoadLevel("victory");
         }
     }
     void OnTriggerEnter2D(Collider2D other)
