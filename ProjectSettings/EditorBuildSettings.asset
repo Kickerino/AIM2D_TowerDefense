@@ -4,4 +4,12 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ThoSceneMap/menu.unity
+  - enabled: 1
+    path: Assets/ThoSceneMap/main.unity
+  - enabled: 1
+    path: Assets/ThoSceneMap/Defeat.unity
+  - enabled: 1
+    path: Assets/ThoSceneMap/victory.unity

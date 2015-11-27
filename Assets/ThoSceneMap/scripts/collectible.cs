@@ -12,13 +12,13 @@ public class collectible : MonoBehaviour {
          {
              Destroy(coll.gameObject);
              score++;
-             SetText("score : " + score);
+             SetText("collected : " + score + "/2");
          }
 
     }
      public void SetText(string text)
      {
-         myText.text = "score : " + score;
+         myText.text = "collected : " + score + "/2";
      }
 
 
