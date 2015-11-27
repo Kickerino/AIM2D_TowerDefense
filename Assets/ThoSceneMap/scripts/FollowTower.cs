@@ -13,7 +13,6 @@ public class FollowTower : MonoBehaviour {
          private float _lastShotTime = float.MinValue;
      
          void Start () {
-             
          }
      
          void Update(){
